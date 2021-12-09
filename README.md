@@ -1,2 +1,4 @@
-# hello-world
-c++ programs
+#include(stdio.h)
+{
+ printf("HELLO WORLD")
+ }
